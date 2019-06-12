@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+    <string name="total_amt">Total Amt</string>
+    <string name="tip_amt">Tip Amt</string>
+    <string name="amount_description">Enter the total amount</string>
+    <string name="button_title">DONE</string>
+    <string name="enter_tip_percentage">Enter tip percentage</string>
+</resources>
